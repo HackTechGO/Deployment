@@ -6,7 +6,7 @@
 
 3. Open terminal/command line to point to the directory where the file containing your app code is located.
 
-4. Using the terminal, log in to Heroku with "heroku login -i"
+4. Using the terminal, log in to Heroku with: <i>heroku login -i </i>
 
 5. Enter your Heroku email address
 
