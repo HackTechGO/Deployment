@@ -1,4 +1,4 @@
-Steps to deploy a static Node website to Heroku
+# Steps to deploy a static Node website to Heroku
 
 1. Create an account on www.heroku.com if you don't have one already.
 
@@ -31,7 +31,7 @@ Steps to deploy a static Node website to Heroku
 15. That should do it. Go ahead and open your app with "heroku open".
 
 
-Useful commands:
+# Useful commands:
 - heroku
 - heroku info - info about the app
 - heroku logs - shows logs
