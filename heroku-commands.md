@@ -30,8 +30,11 @@
 
 15. That should do it. Go ahead and open your app with: <b>heroku open</b>
 
+NB! Make sure that you have added <b>"start": "node app.js"</b> into your package.json file to tell heroku how to start the app.
 
-# Useful commands:
+
+
+# Other Useful commands:
 - <b>heroku</b> - shows all heroku commands
 - <b>heroku info</b> - info about the app
 - <b>heroku logs</b> - shows logs
