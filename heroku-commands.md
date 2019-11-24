@@ -36,4 +36,4 @@
 - <b>heroku info</b> - info about the app
 - <b>heroku logs</b> - shows logs
 - <b>heroku run <unix command></b> like "ls", "npm install mongoose --save"
-- Before pushing the changes to Heroku, tell heroku the name of the app you want to use with: "heroku git:remote --app <myawesomeappname>"
+- <b>heroku git:remote --app <myawesomeappname></b> - Before pushing the changes to Heroku, that is how to tell heroku the name of the app you want to use with
