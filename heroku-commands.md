@@ -30,8 +30,9 @@
 
 15. That should do it. Go ahead and open your app with: <b>heroku open</b>
 
+<p>
 NB! Make sure that you have added <b>"start": "node app.js"</b> into your package.json file to tell heroku how to start the app.
-
+</p>
 
 
 # Other Useful commands:
@@ -39,4 +40,4 @@ NB! Make sure that you have added <b>"start": "node app.js"</b> into your packag
 - <b>heroku info</b> - info about the app
 - <b>heroku logs</b> - shows logs
 - <b>heroku run <unix command></b> like "ls", "npm install mongoose --save"
-- <b>heroku git:remote --app <myawesomeappname></b> - Before pushing the changes to Heroku, that is how to tell heroku the name of the app you want to use with
+- <b>heroku git:remote --app <myawesomeappname></b> - before pushing the changes to Heroku, that is how to tell heroku the name of the app you want to use with
